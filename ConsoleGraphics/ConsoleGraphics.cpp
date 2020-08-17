@@ -45,7 +45,7 @@ int main()
     map += L"################";
 
     auto timer1 = std::chrono::system_clock::now();
-    auto timer2 = std::chrono::system_clock::now();
+    auto timer2 = std::chrono::system_clock::now(); 
 
     while (1) 
     {
